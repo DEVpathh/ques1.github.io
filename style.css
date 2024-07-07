@@ -1,0 +1,39 @@
+/* h1{
+    text-align: center;
+    color : salmon;
+    margin :19px;
+    border : 5px solid black;
+} */
+ html{
+    background-color: beige;
+ }
+ h1{
+    margin : 0px;
+ }
+
+ #title{
+    text-align: center;
+    color : salmon;
+    height : 50px;
+    width : 350px;
+    border : 5px solid black;
+    padding-top : 10px;
+    margin-left: 550px; 
+    background-color :antiquewhite;  
+} 
+#image{
+    margin-left: 420px;
+}
+#caption{
+    text-align: center;
+    font-weight: 800;
+    font-size: larger;}
+#content{
+    font-size: 15pt;
+    text-align: center;
+    list-style-position: inside;
+}
+#end{
+    text-align: right;
+    font-weight: bold;
+}
